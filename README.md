@@ -180,6 +180,7 @@ It provides a beautiful UI for uploading study videos and displaying
 real-time focus/distraction analytics with timeline visualization.
 Includes cross-platform support (iOS, Android, Web, Desktop).
 
+<img width="720" height="1640" alt="Screenshot_20260508-085733 1" src="https://github.com/user-attachments/assets/7292699c-e783-43e1-b779-7e83912a1413" />
 
 
 
